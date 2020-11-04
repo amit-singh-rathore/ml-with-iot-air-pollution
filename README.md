@@ -41,15 +41,15 @@ Other parameters like epoch (20-100), optimizer(adam, sgd), learning rate(0.001 
 
 ## Model Architecture
 
-![Model Architecture](https://github.com/sangeethsajeev/capstone_project/blob/dev/images/NeuralNetworkArch.jpg)
+![Model Architecture](https://github.com/amit-singh-rathore/ml-with-iot-air-pollution/tree/master/images/NeuralNetworkArch.jpg)
 
 ## Model result comparision actual vs forecasted
 
-![Model Forecast Visuals](https://github.com/sangeethsajeev/capstone_project/blob/dev/images/PredictionResults.jpg)
+![Model Forecast Visuals](https://github.com/amit-singh-rathore/ml-with-iot-air-pollution/tree/master/images/PredictionResults.jpg)
 
 ## Deployment Strategy
 
-![Deployment Architecture](https://github.com/sangeethsajeev/capstone_project/blob/dev/images/Deployment.jpg)
+![Deployment Architecture](https://github.com/amit-singh-rathore/ml-with-iot-air-pollution/tree/master/images/Deployment.jpg)
 
 The solutoion is deployed on AWS and we are leveraging AWS CFN to maintain infrastructure as code. 
 
